@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//naive method from course matirials
 public class Fib {
   private static long calc_fib(int n) {
     if (n <= 1)

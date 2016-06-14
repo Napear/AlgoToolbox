@@ -1,0 +1,315 @@
+
+Runtime for n = 1
+F1 = 1
+
+real	0m0.064s
+user	0m0.060s
+sys	0m0.000s
+
+Runtime for n = 2
+F2 = 1
+
+real	0m0.023s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 3
+F3 = 2
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 4
+F4 = 3
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 5
+F5 = 5
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 6
+F6 = 8
+
+real	0m0.022s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 7
+F7 = 13
+
+real	0m0.020s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 8
+F8 = 21
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 9
+F9 = 34
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 10
+F10 = 55
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 11
+F11 = 89
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 12
+F12 = 144
+
+real	0m0.020s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 13
+F13 = 233
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 14
+F14 = 377
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 15
+F15 = 610
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 16
+F16 = 987
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 17
+F17 = 1597
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 18
+F18 = 2584
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 19
+F19 = 4181
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 20
+F20 = 6765
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 21
+F21 = 10946
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 22
+F22 = 17711
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 23
+F23 = 28657
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 24
+F24 = 46368
+
+real	0m0.020s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 25
+F25 = 75025
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 26
+F26 = 121393
+
+real	0m0.022s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 27
+F27 = 196418
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 28
+F28 = 317811
+
+real	0m0.020s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 29
+F29 = 514229
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 30
+F30 = 832040
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 31
+F31 = 1346269
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 32
+F32 = 2178309
+
+real	0m0.020s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 33
+F33 = 3524578
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 34
+F34 = 5702887
+
+real	0m0.020s
+user	0m0.016s
+sys	0m0.000s
+
+Runtime for n = 35
+F35 = 9227465
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 36
+F36 = 14930352
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 37
+F37 = 24157817
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 38
+F38 = 39088169
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 39
+F39 = 63245986
+
+real	0m0.020s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 40
+F40 = 102334155
+
+real	0m0.021s
+user	0m0.020s
+sys	0m0.000s
+
+Runtime for n = 41
+F41 = 165580141
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 42
+F42 = 267914296
+
+real	0m0.021s
+user	0m0.012s
+sys	0m0.008s
+
+Runtime for n = 43
+F43 = 433494437
+
+real	0m0.020s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 44
+F44 = 701408733
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.004s
+
+Runtime for n = 45
+F45 = 1134903170
+
+real	0m0.026s
+user	0m0.024s
+sys	0m0.000s
