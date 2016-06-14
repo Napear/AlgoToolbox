@@ -1,7 +1,7 @@
 # Introduction Assignments 
 -----
 
-Each of the folders in this section contain the various programming assignments for week 2 of the course.  They each contain code stubs in various languages as well at my solution for the problems.  The prog_assign.pdf file contains the instructions for each problem.
+Each of the folders in this section contain the various programming assignments for week 2 of the course.  They each contain code stubs from the course material in C, Java and Python.  My solutions are added to some of those files, and constitute the whole of any other files.  The prog_assign.pdf file contains the instructions for each problem.
   
 ## Small Fibonacci Numbers
 ------
