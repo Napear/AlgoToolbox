@@ -1,6 +1,7 @@
 # Uses python3
 import sys
 
+
 def gcd(a, b):
     current_gcd = 1
     for d in range(2, min(a, b) + 1):
@@ -10,7 +11,13 @@ def gcd(a, b):
 
     return current_gcd
 
+
+def euclidean(a, b):
+    if b == 0:
+        return a
+    return euclidean(b, a % b)
+
 if __name__ == "__main__":
-    input = sys.stdin.read()
+    input = sys.stdin.readline()
     a, b = map(int, input.split())
-    print(gcd(a, b))
+    print(euclidean(a, b))

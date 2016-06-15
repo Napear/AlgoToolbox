@@ -13,9 +13,14 @@ int gcd(int a, int b) {
   return current_gcd;
 }
 
+int euclidean(int a, int b){
+    if (b==0) return a;
+    return euclidean(b, a % b);
+}
+
 int main() {
   int a, b;
   std::cin >> a >> b;
-  std::cout << gcd(a, b) << std::endl;
+  std::cout << euclidean(a, b) << std::endl;
   return 0;
 }
