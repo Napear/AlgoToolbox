@@ -15,3 +15,8 @@ The programing assignments for week 1 on are not included as they are trivial in
 ------
 
 This is the "introductory" week and contains code to find Fibonacci numbers, to compute a gcd and to compute an lcd.
+
+## Week 3
+-----
+
+This week covers greedy algorithms and contains code for the fractional knapsack problem, making change, segment covering, dot products and pairwise distinct summands
