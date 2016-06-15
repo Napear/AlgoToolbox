@@ -1,7 +1,7 @@
 # AlgoToolbox
 ------
 
-This is a repo to contain my solutions for the Algorithmic Toolbox course available on Coursera.com.  The full course content can be found at <https://www.coursera.org/learn/algorithmic-toolbox>
+This is a repo to contain my solutions for the Algorithmic Toolbox course available on Coursera.com.  The full course content can be found at <https://www.coursera.org/learn/algorithmic-toolbox> 
 All of the programming assignments are designed to be run at the command line.  Each requires a specific inputs though STDIN (given for each problem) and they then return the output via STDOUT.
 
 Each individual problem for any given set will contain code stubs directly from the course materials in C, Java and Python.  My solutions are added to some of those files.  I will also include solutions for a few other languages.      
