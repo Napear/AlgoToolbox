@@ -6,4 +6,4 @@ def calc_fib(n)
 end
 
 n = gets.chomp.to_i
-puts "F#{n} = #{calc_fib n}"
+puts calc_fib n

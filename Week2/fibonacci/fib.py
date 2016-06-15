@@ -18,4 +18,4 @@ def fast_fib(n):
 
 
 n = int(input())
-print("F" + str(n) + " = " + str(fast_fib(n)))
+print(fast_fib(n))

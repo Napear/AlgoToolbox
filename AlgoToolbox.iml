@@ -2,7 +2,7 @@
 <module type="RUBY_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Python" name="Python">
-      <configuration sdkName="Python 2.7 (system)" />
+      <configuration sdkName="Python 3.5.1 (anaconda py35)" />
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -10,6 +10,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="ruby-2.3.1-p112" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Python 2.7 (system) interpreter library" level="application" />
+    <orderEntry type="library" name="Python 3.5.1 (anaconda py35) interpreter library" level="application" />
   </component>
 </module>

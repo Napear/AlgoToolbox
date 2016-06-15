@@ -25,6 +25,6 @@ int fast_fib(int n){
 int main() {
   int n = 0;
   cin >> n;
-  cout << fast_fib(n) << '\n';
+  cout << fast_fib(n) << endl;
   return 0;
 }

@@ -1,0 +1,264 @@
+Runtime for 2
+33
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 3
+0
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 4
+1
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 5
+34
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 6
+33
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 7
+1
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 8
+35
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 9
+67
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 10
+34
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 11
+36
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 12
+102
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 13
+101
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 14
+70
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 15
+138
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 16
+203
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 17
+171
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 18
+208
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 19
+341
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 20
+374
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 21
+379
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 22
+549
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 23
+715
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 24
+753
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 25
+928
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 26
+1264
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 27
+1468
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 28
+1681
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 29
+2192
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 30
+2732
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 31
+3149
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 32
+3873
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 33
+4924
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 34
+5881
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 35
+7022
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 36
+8797
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 37
+10805
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 38
+12903
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 39
+15819
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 40
+19602
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 41
+23708
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 42
+28722
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 43
+35421
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 44
+43310
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+Runtime for 45
+52430
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
