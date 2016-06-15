@@ -1,27 +1,41 @@
 
 Runtime for 2
-33
+1
 
 real	0m0.001s
 user	0m0.000s
 sys	0m0.000s
 
-Runtime for 32
-3873
+Runtime for 3
+2
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+
+Runtime for 4
+3
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+
+Runtime for 16
+987
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+
+Runtime for 23
+28657
 
 real	0m0.001s
 user	0m0.000s
 sys	0m0.000s
 
 Runtime for 45
-52430
-
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
-
-Runtime for 32
-3873
+1134903170
 
 real	0m0.001s
 user	0m0.000s

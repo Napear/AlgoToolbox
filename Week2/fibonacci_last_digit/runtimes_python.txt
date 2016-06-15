@@ -1,28 +1,35 @@
 
-Runtime for 45
-0
+Runtime for 24
+8
+
+real	0m0.011s
+user	0m0.004s
+sys	0m0.004s
+
+Runtime for 453
+8
 
 real	0m0.010s
 user	0m0.008s
 sys	0m0.000s
 
-Runtime for 2343
+Runtime for 345345
 0
 
-real	0m0.010s
-user	0m0.008s
+real	0m0.068s
+user	0m0.064s
 sys	0m0.000s
+
+Runtime for 590459
+1
+
+real	0m0.108s
+user	0m0.100s
+sys	0m0.004s
 
 Runtime for 10000000
-0
+5
 
-real	0m1.650s
-user	0m1.640s
-sys	0m0.008s
-
-Runtime for 987432
-0
-
-real	0m0.174s
-user	0m0.172s
-sys	0m0.000s
+real	0m1.666s
+user	0m1.652s
+sys	0m0.012s
