@@ -2,24 +2,10 @@
 import sys
 
 
-# TODO: Figure out why the python solution is soooo much slower
-
-# def russian_peasant(x, y):
-#     z = 0
-#     while y > 0:
-#         if y % 2 == 1: z = z + x
-#         x = x << 1
-#         y = y >> 1
-#     return z
-
-
 def gcd(a, b):
-    current_gcd = 1
-    for d in range(2, min(a, b) + 1):
-        if a % d == 0 and b % d == 0:
-            if d > current_gcd:
-                current_gcd = d
-    return current_gcd
+    if b == 0:
+        return a
+    return gcd(b, a % b)
 
 
 def lcm(a, b):
